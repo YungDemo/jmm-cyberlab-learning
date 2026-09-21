@@ -1,9 +1,22 @@
 # 11-CTFs-AND-CHALLENGES
 
-This directory is meant for capture-the-flag and challenge-based learning.
+This folder is for challenge-based learning and hands-on practice.
 
-Suggested resources:
+## Platforms
 - TryHackMe
 - HackTheBox
 - OverTheWire
-- other
+- other challenge resources
+
+## Goals
+- sharpen practical troubleshooting skills
+- practice attack and defense paths
+- improve confidence with real-world scenarios
+- build repeatable challenge notes and write-ups
+
+## Recommended habit
+After each challenge, document:
+- what you learned
+- what tools you used
+- what was difficult
+- what you would do differently next time

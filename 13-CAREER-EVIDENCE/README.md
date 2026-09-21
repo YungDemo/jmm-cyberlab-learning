@@ -1,9 +1,22 @@
 # 13-CAREER-EVIDENCE
 
-This repository section is dedicated to professional growth and proof of work.
+This section is for career-building artifacts and proof of work.
 
-Suggested areas:
+## Focus areas
 - certifications
 - projects
-- technical-writeups
+- technical write-ups
 - skills
+
+## Why this matters
+Employers want evidence, not just claims. This area helps you track the work that proves your readiness.
+
+## Useful evidence
+- certifications and exam notes
+- project summaries
+- technical write-ups
+- screenshots and dashboards
+- timeline of learning milestones
+
+## Best practice
+Keep this folder updated as you progress. It should become a clear record of your security growth over time.
