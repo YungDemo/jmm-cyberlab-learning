@@ -1,41 +1,56 @@
 # JMM-CYBERLAB
 
-A structured cybersecurity learning repository designed to help build practical knowledge across foundations, SOC operations, Microsoft security, DFIR, detection engineering, pentesting, cloud security, AI security, and career development.
+A structured cybersecurity learning repository designed to help you build practical skills across foundations, SOC operations, Microsoft security, DFIR, detection engineering, pentesting, cloud security, AI security, and career readiness.
 
-## Repository Goals
-- Build a strong foundation in networking, Linux, Windows, and cybersecurity fundamentals
-- Develop SOC and detection engineering skills using SIEM, EDR, IDS/IPS, and incident response workflows
-- Learn Microsoft security stack including Microsoft Sentinel, Defender XDR, Defender for Endpoint, Defender for Identity, and KQL
-- Practice DFIR concepts including digital forensics, evidence handling, browser and email forensics
-- Explore cloud security, healthcare cybersecurity, AI security, and home-lab offensive/defensive scenarios
-- Track career evidence through projects, certifications, technical write-ups, and skills mapping
+## Overview
 
-## Structure
+This repository is organized as a guided learning path rather than a single application project. It is meant to support continuous, hands-on learning, technical note-taking, project work, and portfolio-building.
 
-- `00-ABOUT/` — learning journey, roadmap, objectives, and skills matrix
-- `01-FOUNDATIONS/` — networking, Linux, Windows, fundamentals, and cryptography
-- `02-SOC/` — SOC fundamentals, SIEM, EDR, IDS/IPS, incident response, threat intel, MITRE ATT&CK, metrics
-- `03-MICROSOFT-SECURITY/` — SC-200, Sentinel, Defender XDR, KQL, incident investigation
-- `04-DFIR/` — digital forensics, FTK, Autopsy, evidence acquisition, browser/email forensics
-- `05-DETECTION-ENGINEERING/` — KQL, Sigma, YARA, Snort, detection rules
-- `06-PENTESTING/` — reconnaissance, enumeration, vulnerability assessment, web security, privilege escalation, reporting
-- `07-HOME-LAB/` — VirtualBox, Kali, Windows, Metasploitable, Active Directory, Wazuh, network diagrams
-- `08-CLOUD-SECURITY/` — Azure, AWS, IAM, cloud monitoring
-- `09-HEALTHCARE-CYBERSECURITY/` — NHS, healthcare threats, medical devices, data protection
-- `10-AI-SECURITY/` — AI threats, AI phishing, LLM security, defensive AI
-- `11-CTFs-AND-CHALLENGES/` — TryHackMe, HackTheBox, OverTheWire, and other challenges
-- `12-PROJECTS/` — phishing forensics, SOC lab, detection engineering, future projects
-- `13-CAREER-EVIDENCE/` — certifications, technical writeups, projects, and skills
+## Learning Path
+
+1. Foundations: networking, Linux, Windows, cryptography, and core cybersecurity concepts
+2. Security Operations: SIEM, EDR, IDS/IPS, incident response, and threat intelligence
+3. Microsoft Security: Defender, Sentinel, KQL, and security investigation workflows
+4. DFIR: digital forensics, evidence handling, browser/email forensics, and phishing investigations
+5. Detection Engineering: KQL, Sigma, YARA, Snort, and rule writing
+6. Pentesting: reconnaissance, enumeration, web security, privilege escalation, and reporting
+7. Home Lab: VM-based lab environments, Active Directory, Wazuh, and network diagrams
+8. Cloud Security: Azure, AWS, IAM, and monitoring
+9. Healthcare Cybersecurity: NHS, healthcare threats, medical devices, and data protection
+10. AI Security: AI threats, phishing, LLM security, and defensive AI
+11. CTF Practice: TryHackMe, HackTheBox, OverTheWire, and other challenges
+12. Projects: practical work and case-based deliverables
+13. Career Evidence: certifications, write-ups, and skills documentation
+
+## Repository Structure
+
+- `00-ABOUT/` — learning journey, goals, roadmap, and skills matrix
+- `01-FOUNDATIONS/` — networking, Linux, Windows, cybersecurity basics, cryptography
+- `02-SOC/` — SOC operations, SIEM, IDS/IPS, EDR, threat intel, and response
+- `03-MICROSOFT-SECURITY/` — Sentinel, Defender, KQL, and investigations
+- `04-DFIR/` — digital forensics, evidence acquisition, browser/email forensics
+- `05-DETECTION-ENGINEERING/` — Sigma, YARA, Snort, and detection rules
+- `06-PENTESTING/` — recon, enumeration, vulnerability assessment, web security, escalation
+- `07-HOME-LAB/` — VirtualBox, Kali, Active Directory, Wazuh, and network diagrams
+- `08-CLOUD-SECURITY/` — Azure, AWS, IAM, and monitoring
+- `09-HEALTHCARE-CYBERSECURITY/` — healthcare threats, medical devices, compliance
+- `10-AI-SECURITY/` — AI phishing, LLMs, and AI-driven threats/defense
+- `11-CTFs-AND-CHALLENGES/` — labs and challenge-based learning
+- `12-PROJECTS/` — project work and deliverables
+- `13-CAREER-EVIDENCE/` — certifications, writeups, and proof of work
 
 ## Suggested Workflow
-1. Start with `00-ABOUT/` to understand the journey and objectives.
-2. Work through `01-FOUNDATIONS/` before moving into advanced domains.
-3. Use `11-CTFs-AND-CHALLENGES/` to practice in parallel with theory.
-4. Build evidence in `12-PROJECTS/` and `13-CAREER-EVIDENCE/`.
-5. Update your skills matrix as you complete labs and certifications.
+
+- Start with `00-ABOUT/` and define your goals.
+- Complete the fundamentals before moving into specialized domains.
+- Pair theory with hands-on lab work.
+- Document findings in markdown notes and project folders.
+- Use `12-PROJECTS/` and `13-CAREER-EVIDENCE/` to show measurable growth.
 
 ## Notes
-This repository is intentionally organized for a learning path rather than a single project. Use each folder as a place to capture notes, create labs, and document progress.
+
+This repository is intentionally organized for long-term learning and career building. It can be expanded as your skills grow.
 
 ## License
-This repository is intended for educational and personal learning use.
+
+This repository is for educational and personal learning use. See `LICENSE` for details.

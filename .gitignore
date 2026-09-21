@@ -1,0 +1,28 @@
+# JMM-CYBERLAB
+
+A collection of notes, labs, and security learning resources built for structured cybersecurity practice.
+
+## Ignore patterns
+
+This repository tracks learning materials, notes, and lab artifacts. Common local files and generated artifacts are ignored to keep the repo clean.
+
+## Typical ignored files
+
+- `.DS_Store`
+- `Thumbs.db`
+- `__pycache__/`
+- `.venv/`
+- `venv/`
+- `*.log`
+- `*.tmp`
+- `*.bak`
+- `*.swp`
+- `*.zip`
+- `*.tar.gz`
+- `*.iso`
+- `*.vmdk`
+- `*.qcow2`
+- `node_modules/`
+- `.env`
+- `.idea/`
+- `.vscode/`
